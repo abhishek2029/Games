@@ -6,6 +6,8 @@
 
 2 - You need to have python installed.
 
+3 - Open the terminal and type : python3 mypass.py __yourpassword__
+
 #HangMan_Game
 
 1 - Run the HangMan_Game.py from your terminal.
