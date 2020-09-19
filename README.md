@@ -7,4 +7,5 @@
 2 - You need to have python installed.
 
 #HangMan_Game
+
 1 - Run the HangMan_Game.py from your terminal.
